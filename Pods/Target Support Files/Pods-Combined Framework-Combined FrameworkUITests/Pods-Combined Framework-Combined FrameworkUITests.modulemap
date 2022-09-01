@@ -1,0 +1,6 @@
+framework module Pods_Combined_Framework_Combined_FrameworkUITests {
+  umbrella header "Pods-Combined Framework-Combined FrameworkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
